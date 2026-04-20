@@ -1,2 +1,3 @@
 # book-ai
-full stack project
+full stack website
+and python project 
